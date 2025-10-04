@@ -1,4 +1,4 @@
-
+![alt text](image.png)
 
 # STM32 Pin Configuration - Beginner's Guide
 
@@ -303,4 +303,5 @@ void send_message(char* text) {
 2. **Add a button** - Learn input reading
 3. **Try serial communication** - Talk to computer
 4. **Experiment with sensors** - Read analog values
+
 5. **Use STM32CubeMX** - Let the tool help you configure pins
